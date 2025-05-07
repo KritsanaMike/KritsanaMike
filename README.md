@@ -7,8 +7,13 @@
 
 ### 🧑‍💻 About Me
 
-Hi! I'm **Kritsana**, a programmer who enjoys solving real-world problems through code.  
-I specialize in building applications that are clean, efficient, and user-friendly.
+Hi! I'm Kritsana, a programmer who enjoys turning real-world problems into practical solutions with code.  
+I have a strong passion for working with **Python** and **IoT (Internet of Things)** technologies.
+
+I enjoy building smart, connected systems — from sensors to the cloud — using tools like Raspberry Pi, Arduino, and microcontrollers.  
+Whether it's automating tasks, collecting data from the environment, or building APIs to control devices remotely,  
+
+Always learning. Always building. 🚀
 
 - 🔭 I’m currently working on projects related to **web development** and **machine learning**
 - 🌱 I’m constantly learning new technologies and frameworks
