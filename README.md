@@ -38,7 +38,7 @@ I specialize in building applications that are clean, efficient, and user-friend
 
 | Project | Description |
 |--------|-------------|
-| [Face Mask Detection](https://github.com/KritsanaMike/face-mask-detection) | Real-time face mask detection using YOLO and OpenCV |
+| [Face Mask Detection](https://github.com/KritsanaMike/facemask-detection) | Real-time face mask detection using YOLO and OpenCV |
 | [Pharmacy Shift Scheduler](https://github.com/KritsanaMike/pharmacy-scheduler) | Automated scheduling system for pharmacy departments |
 | [Personal Portfolio](https://github.com/KritsanaMike/portfolio) | My personal website built with React and Tailwind CSS |
 
